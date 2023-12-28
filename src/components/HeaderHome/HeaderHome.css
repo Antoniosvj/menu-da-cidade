@@ -1,0 +1,19 @@
+.bg-body-tertiary{
+    height: 60px;
+}
+#nav-home{
+    width: 100%;
+}
+.logo-menu{
+    width: 60px;
+    height: 50px;
+}
+
+.nav-link{
+    border-radius: 10px;
+    margin-right: 15px;
+}
+.nav-link:hover{
+    background-color: blueviolet;
+    color:white
+}
